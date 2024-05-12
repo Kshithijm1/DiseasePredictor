@@ -1,0 +1,20 @@
+{
+    "news_sources": [
+      {
+        "name": "BBC News",
+        "url": "https://www.bbc.com/news",
+        "selector": "h3 a"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/news/archive/worldNews",
+        "selector": ".story-content a"
+      },
+      {
+        "name": "CNN",
+        "url": "https://edition.cnn.com/world",
+        "selector": "h3.cd__headline a"
+      }
+    ]
+  }
+  
